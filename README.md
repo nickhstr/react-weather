@@ -1,2 +1,2 @@
-# React Boilerplate App
-A quick setup for a react app.
+# React Weather App
+A simple React weather app.
